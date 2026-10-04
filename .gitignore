@@ -1,0 +1,9 @@
+# Environment / secrets
+.env
+
+# Command Code internal state (taste, session data)
+.commandcode/
+
+# OS
+.DS_Store
+Thumbs.db

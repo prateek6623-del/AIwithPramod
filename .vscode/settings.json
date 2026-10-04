@@ -1,0 +1,6 @@
+{
+    "github.copilot.chat.codesearch.enabled": true,
+    "github.copilot.chat.alternateGeminiModelFPrompt.enabled": true,
+    "github.copilot.chat.alternateGptPrompt.enabled": true,
+    "java.compile.nullAnalysis.mode": "automatic"
+}
